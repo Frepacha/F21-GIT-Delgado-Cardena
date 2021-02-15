@@ -1,1 +1,1 @@
-firt line file.txt
+first line file.txt
